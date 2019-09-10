@@ -1,5 +1,6 @@
 import React from 'react';
 import Summary from './Summary';
+import './Cart.css'
 
 class Cart extends React.Component {
     render() {
